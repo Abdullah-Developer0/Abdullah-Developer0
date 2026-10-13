@@ -10,13 +10,5 @@ Primary OS for daily use: Fedora Linux
 - **C**: Memory, Pointers, and Sockets: the layer underlying every backend framework
 - **Linux**: Server management via the command line
 - **Networking**: Understanding the actual request lifecycle: HTTP, DNS, and TCP protocols
-
-### # What I’m Building
-- A home server
--
-
-### # What’s Next
-Building backend services using **FastAPI** and **PostgreSQL**, and developing a web server in **C** from scratch,
-along with deploying these projects and benchmarking their performance on real servers.
-
 ---
+
